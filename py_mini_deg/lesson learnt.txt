@@ -1,0 +1,9 @@
+Q- How to handle multiple version of python?
+A- Install both the versions in pc. Put both setup and script path in enviornment path.
+	Rename the setup as pyhton2 and python3 or different version names to distinguish them when
+	running through command prompt.
+	then type setup name in cmd it will recongnise the name.
+	
+Q- How to run pip for different setups?
+A- python2 -m pip install somename
+	python3 -m pip install somename
